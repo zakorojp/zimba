@@ -1,4 +1,4 @@
-<html translate="no" lang="en"><head>
+<html translate="ko" lang="en"><head>
     <link rel="icon" href="https://login.migros.ch/favicon.ico">
     <title>Migros Login</title>
     <meta charset="utf-8">
